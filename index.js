@@ -188,6 +188,6 @@ client.on('messageCreate', async message => {
 // AI
 
 
-client.login('MTI4MzY5MzQ5NzQ1ODYyNjU3MA.G61n_B.ZV2rKWW1A_UVrhJhVQdR7Z-d0exhZO7rVvW_cc');
+client.login('');
 
 
